@@ -27,8 +27,8 @@
 
 ## Recent Projects
 
-[Cool Chat Mini](https://github.com/KingKazmao/coolchatmini)
-[Hangman Game](https://github.com/KingKazmao/hangman)
+* [Cool Chat Mini](https://github.com/KingKazmao/coolchatmini)
+* [Hangman Game](https://github.com/KingKazmao/hangman)
 
 ## Find Me
 Linkedin - https://www.linkedin.com/in/brandonlaubaugh/
