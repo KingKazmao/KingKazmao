@@ -15,6 +15,8 @@
 ![chartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF6384?style=for-the-badge&logo=php&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-FF6384?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Backend
 
