@@ -25,7 +25,10 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![angularjs](https://img.shields.io/badge/AngularJS-4EA94B?style=for-the-badge&logo=angularjs&logoColor=white)
 
+## Recent Projects
 
+[Cool Chat Mini](https://github.com/KingKazmao/coolchatmini)
+[Hangman Game](https://github.com/KingKazmao/hangman)
 
 ## Find Me
 Linkedin - https://www.linkedin.com/in/brandonlaubaugh/
