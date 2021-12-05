@@ -39,5 +39,5 @@ Linkedin - https://www.linkedin.com/in/brandonlaubaugh/
 Portfolio - https://brandonl.herokuapp.com/
 
 # Email
-Any questions? Please email me at [brandonlaubaugh@gmail.cpom](mailto:brandonlaubaugh@gmail.com)
+Any questions? Please email me at [brandonlaubaugh@gmail.com](mailto:brandonlaubaugh@gmail.com)
 
