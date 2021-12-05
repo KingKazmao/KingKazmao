@@ -14,7 +14,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![chartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF6384?style=for-the-badge&logo=php&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-FF6384?style=for-the-badge&logo=python&logoColor=white)
 
 
@@ -24,6 +23,8 @@
 ![express](https://img.shields.io/badge/Express.js-444444?style=for-the-badge&logo=express&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![angularjs](https://img.shields.io/badge/AngularJS-4EA94B?style=for-the-badge&logo=angularjs&logoColor=white)
+
 
 
 ## Find Me
