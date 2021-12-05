@@ -30,7 +30,7 @@
 ## Find Me
 Linkedin - https://www.linkedin.com/in/brandonlaubaugh/
 
-Portfolio - COMING SOON
+Portfolio - https://brandonl.herokuapp.com/
 
 # Email
 Any questions? Please email me at [brandonlaubaugh@gmail.cpom](mailto:brandonlaubaugh@gmail.com)
